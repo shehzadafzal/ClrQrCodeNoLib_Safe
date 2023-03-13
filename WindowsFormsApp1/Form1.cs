@@ -14,7 +14,7 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        private const string ConnectionString = "Data Source=(local);Initial Catalog=CLRMIS;User ID=sa;Password=db$$pmu$$dckp$$16";
+        private const string ConnectionString = "Data Source=(local);Initial Catalog=db;User ID=sa;Password=pass";
 
         public Form1()
         {
