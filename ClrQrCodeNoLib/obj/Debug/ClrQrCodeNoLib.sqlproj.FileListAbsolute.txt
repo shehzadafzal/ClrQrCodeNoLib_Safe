@@ -1,0 +1,6 @@
+C:\Users\shehzad\source\repos\ClrQrCodeNoLib\ClrQrCodeNoLib\bin\Debug\ClrQrCodeNoLib.dacpac
+C:\Users\shehzad\source\repos\ClrQrCodeNoLib\ClrQrCodeNoLib\bin\Debug\ClrQrCodeNoLib.dll
+C:\Users\shehzad\source\repos\ClrQrCodeNoLib\ClrQrCodeNoLib\bin\Debug\ClrQrCodeNoLib.pdb
+C:\Users\shehzad\source\repos\ClrQrCodeNoLib\ClrQrCodeNoLib\obj\Debug\ClrQrCodeNoLib.sqlproj.AssemblyReference.cache
+C:\Users\shehzad\source\repos\ClrQrCodeNoLib\ClrQrCodeNoLib\obj\Debug\ClrQrCodeNoLib.dll
+C:\Users\shehzad\source\repos\ClrQrCodeNoLib\ClrQrCodeNoLib\obj\Debug\ClrQrCodeNoLib.pdb
